@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Company//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:unique-id@example.com
+DTSTAMP:20241128T120000Z
+DTSTART:20241128T130000Z
+DTEND:20241128T140000Z
+SUMMARY:Votre Titre d'Événement
+DESCRIPTION:Rejoignez cet événement via Google Meet.
+LOCATION:http://meet.google.com/pud-zrhn-xms
+END:VEVENT
+END:VCALENDAR
