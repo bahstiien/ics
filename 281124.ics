@@ -4,11 +4,11 @@ PRODID:-//Lexinsight//NONSGML v1.0//FR
 METHOD:REQUEST
 BEGIN:VEVENT
 UID:admin@lex-insight.fr
-DTSTAMP:20241128T09000Z
-DTSTART:20241128T09000Z
-DTEND:20241128T10000Z
+DTSTAMP:20241128T120000Z
+DTSTART:20241128T100000Z
+DTEND:20241128T110000Z
 SUMMARY:Webinar Lex Insight X LegalPlace
-DESCRIPTION:Rejoignez cet événement via Google Meet : http://meet.google.com/pud-zrhn-xms
+DESCRIPTION:Rejoignez cet événement : https://meet.google.com/pud-zrhn-xms
 LOCATION:Google Meet
 ORGANIZER;CN=Lex Insight:MAILTO:admin@lex-insight.fr
 END:VEVENT
