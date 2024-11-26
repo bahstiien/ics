@@ -12,7 +12,7 @@ DESCRIPTION:Rejoignez cet événement via Google Meet : https://meet.google.com/
 LOCATION:Google Meet
 ORGANIZER;CN=Lex Insight:MAILTO:admin@lex-insight.fr
 BEGIN:VALARM
-TRIGGER:-PT15M
+TRIGGER:-PT60M
 ACTION:DISPLAY
 DESCRIPTION:Rappel : Webinar Lex Insight X LegalPlace
 END:VALARM
