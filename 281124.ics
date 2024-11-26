@@ -1,13 +1,15 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Your Company//NONSGML v1.0//EN
+PRODID:-//Lexinsight//NONSGML v1.0//FR
+METHOD:REQUEST
 BEGIN:VEVENT
-UID:unique-id@example.com
-DTSTAMP:20241126T120000Z
-DTSTART:20241126T130000Z
-DTEND:20241126T140000Z
-SUMMARY:Votre Titre d'Événement
-DESCRIPTION:Rejoignez cet événement via Google Meet.
-LOCATION:https://meet.google.com/votre-lien
+UID:admin@lex-insight.fr
+DTSTAMP:20241128T120000Z
+DTSTART:20241128T100000Z
+DTEND:20241128T110000Z
+SUMMARY:Webinar Lex Insight X LegalPlace
+DESCRIPTION:Rejoignez cet événement via Google Meet : http://meet.google.com/pud-zrhn-xms
+LOCATION:Google Meet
+ORGANIZER;CN=Lex Insight:MAILTO:admin@lex-insight.fr
 END:VEVENT
 END:VCALENDAR
